@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+node_modules/
+.env
+.vscode/
+.idea/
+*.swp
+__pycache__/
+*.pyc
+dist/
+build/
+# JetBrains
+*.iml
+# Windows thumbnail cache
+ehthumbs.db
+
+# Optional: ignore local OS-specific files
+.DS_Store
+
+# Ignore user-specific git credentials or secrets
+secrets.yml
+
+# If using GitHub Pages with a docs/ folder, do not ignore index.html
